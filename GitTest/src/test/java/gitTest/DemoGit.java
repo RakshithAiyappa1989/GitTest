@@ -8,6 +8,8 @@ public class DemoGit {
 		System.out.println("Demo Git");
 		
 		System.out.println("Added");
+		
+		System.out.println("Branch added");
 	}
 	
 }
