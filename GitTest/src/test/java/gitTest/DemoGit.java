@@ -7,7 +7,7 @@ public class DemoGit {
 	public void demoGit () {
 		System.out.println("Demo Git");
 		
-		
+		System.out.println("Added");
 	}
 	
 }
